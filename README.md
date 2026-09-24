@@ -113,8 +113,7 @@ Berikut adalah tangkapan layar hasil menjalankan setiap fitur program:
 
 **1. Tampilan Menu Utama**
 
-![Menu Utama](<img width="507" height="251" alt="Screenshot 2026-09-24 161529" src="https://github.com/user-attachments/assets/69d6d674-4287-48be-890a-6864dd7a76b0" />
-)
+![Menu Utama]<img width="507" height="251" alt="Screenshot 2026-09-24 161529" src="https://github.com/user-attachments/assets/69d6d674-4287-48be-890a-6864dd7a76b0" />
 
 **2. Tambah Mahasiswa**
 
