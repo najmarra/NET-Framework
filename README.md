@@ -1,5 +1,3 @@
-# NET-Framework
-
 # Laporan Praktikum: Pemrograman C# dengan .NET
 
 Laporan ini berisi dokumentasi dua latihan pemrograman C# yang dikerjakan pada mata kuliah Pemrograman Berbasis Kerangka Kerja (PBKK), yaitu latihan pengenalan project console pertama (**Hello World**) dan latihan pembuatan aplikasi **Sistem Data Mahasiswa**.
