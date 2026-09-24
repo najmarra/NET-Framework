@@ -113,32 +113,27 @@ Berikut adalah tangkapan layar hasil menjalankan setiap fitur program:
 
 **1. Tampilan Menu Utama**
 
-![Menu Utama]<img width="507" height="251" alt="Screenshot 2026-09-24 161529" src="https://github.com/user-attachments/assets/69d6d674-4287-48be-890a-6864dd7a76b0" />
+<img width="507" height="251" alt="Screenshot 2026-09-24 161529" src="https://github.com/user-attachments/assets/69d6d674-4287-48be-890a-6864dd7a76b0" />
 
 **2. Tambah Mahasiswa**
 
-![Tambah Mahasiswa](<img width="507" height="290" alt="Screenshot 2026-09-24 161656" src="https://github.com/user-attachments/assets/41501843-cad0-4ee0-817f-5247f7714fec" />
-)
+<img width="507" height="290" alt="Screenshot 2026-09-24 161656" src="https://github.com/user-attachments/assets/41501843-cad0-4ee0-817f-5247f7714fec" />
 
 **3. Tampilkan Data Mahasiswa**
 
-![Tampilkan Mahasiswa](<img width="752" height="275" alt="Screenshot 2026-09-24 161742" src="https://github.com/user-attachments/assets/a00bae3f-c1b5-478a-a531-1b71bdb37480" />
-)
+<img width="752" height="275" alt="Screenshot 2026-09-24 161742" src="https://github.com/user-attachments/assets/a00bae3f-c1b5-478a-a531-1b71bdb37480" />
 
 **4. Cari Mahasiswa**
 
-![Cari Mahasiswa](<img width="510" height="313" alt="Screenshot 2026-09-24 161809" src="https://github.com/user-attachments/assets/78487c2e-557e-4798-be3b-4a883ee4ec6e" />
-)
+<img width="510" height="313" alt="Screenshot 2026-09-24 161809" src="https://github.com/user-attachments/assets/78487c2e-557e-4798-be3b-4a883ee4ec6e" />
 
 **5. Hapus Mahasiswa**
 
-![Hapus Mahasiswa](<img width="513" height="231" alt="Screenshot 2026-09-24 161839" src="https://github.com/user-attachments/assets/8f2f212a-15f5-496d-a1c8-af05e4d92625" />
-)
+<img width="513" height="231" alt="Screenshot 2026-09-24 161839" src="https://github.com/user-attachments/assets/8f2f212a-15f5-496d-a1c8-af05e4d92625" />
 
 **6. Keluar**
 
-![Hapus Mahasiswa](<img width="511" height="300" alt="Screenshot 2026-09-24 161936" src="https://github.com/user-attachments/assets/65ca6474-a949-46c5-a462-e939c29182b5" />
-)
+<img width="511" height="300" alt="Screenshot 2026-09-24 161936" src="https://github.com/user-attachments/assets/65ca6474-a949-46c5-a462-e939c29182b5" />
 
 ---
 
