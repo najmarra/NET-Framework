@@ -6,7 +6,6 @@ using System.Collections.Generic;
  
 namespace DataMahasiswa
 {
-    // Class untuk merepresentasikan data mahasiswa 
     class Mahasiswa
     {
         public string NIM { get; set; }
@@ -14,7 +13,6 @@ namespace DataMahasiswa
         public string Prodi { get; set; }
         public double IPK { get; set; }
 
-        // Constructor 
         public Mahasiswa(string nim, string nama, string prodi, double ipk)
         {
             NIM = nim;
@@ -26,7 +24,6 @@ namespace DataMahasiswa
 
     class Program
     {
-        // List untuk menyimpan data mahasiswa 
         static List<Mahasiswa> daftarMahasiswa =
             new List<Mahasiswa>(); 
  
@@ -96,11 +93,6 @@ namespace DataMahasiswa
             } while (pilihan != 5);
         }
 
-
-        // ========================================== 
-        // METHOD MENAMPILKAN MENU 
-        // ========================================== 
-
         static void TampilkanMenu()
         {
             Console.Clear();
@@ -115,11 +107,6 @@ namespace DataMahasiswa
             Console.WriteLine("5. Keluar");
             Console.WriteLine("========================================");
         }
-
-
-        // ========================================== 
-        // METHOD TAMBAH MAHASISWA 
-        // ========================================== 
 
         static void TambahMahasiswa() 
  
@@ -177,12 +164,6 @@ Console.WriteLine(
 ); 
         } 
  
- 
-        // ========================================== 
-        // METHOD MENAMPILKAN DATA 
-        // ========================================== 
- 
-
 
         static void TampilkanMahasiswa()
 {
@@ -231,10 +212,6 @@ Console.WriteLine(
     );
 }
 
-
-// ========================================== 
-// METHOD MENCARI MAHASISWA 
-// ========================================== 
 
 static void CariMahasiswa()
 {
@@ -289,10 +266,6 @@ static void CariMahasiswa()
     }
 }
 
-
-// ========================================== 
-// METHOD MENGHAPUS MAHASISWA 
-// ========================================== 
 
 static void HapusMahasiswa()
 {
